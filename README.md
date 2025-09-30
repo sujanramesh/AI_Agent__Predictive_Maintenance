@@ -36,7 +36,7 @@ Predictive_Maintenance/
 ⚙️ Installation
 
 1️⃣ Clone the Repository
-git clone https://github.com/sujanramesh/AI_Agent__Predictive_Maintenance.git
+git clone https://github.com/your_username/AI_Agent__Predictive_Maintenance.git
 cd AI_Agent__Predictive_Maintenance
 
 2️⃣ Create Virtual Environment
